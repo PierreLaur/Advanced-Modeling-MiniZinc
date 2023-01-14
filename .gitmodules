@@ -1,0 +1,3 @@
+[submodule "basic-modeling-minizinc"]
+	path = basic-modeling-minizinc
+	url = git@github.com:PierreLaur/basic-modeling-minizinc.git
